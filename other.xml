@@ -1,0 +1,8 @@
+<application>
+  <component name="CPPToolchains" version="2">
+    <toolchains detectedVersion="5">
+      <toolchain name="Cygwin" toolSetKind="CYGWIN" toolSetPath="D:\Developers\Cygwin64" debuggerKind="CUSTOM_GDB" customGDBPath="D:\Developers\Cygwin64\bin\gdb.exe" />
+      <toolchain name="Visual Studio" toolSetKind="MSVC" toolSetPath="D:\Developers\Microsoft Visual Studio\2017\Enterprise" debuggerKind="CUSTOM_GDB" customGDBPath="D:\Developers\Microsoft Visual Studio\2017\Enterprise\VC\bin\gdb.exe" />
+    </toolchains>
+  </component>
+</application>
